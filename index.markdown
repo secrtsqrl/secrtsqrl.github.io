@@ -42,6 +42,9 @@ title: ""
 - Built solution to fetch data from vendor APIs and load into the Data Warehouse or Google BigQuery
 - Wrote the Python REST API backend to support the “download a copy of your information” application
 
+<details markdown=1>
+  <summary>Show more experience 👴️</summary>
+
 ### Acxiom
 
 *March 2011 - April 2014, 3 yrs 2 mos*
@@ -60,9 +63,12 @@ title: ""
 
 - Executed marketing campaigns according to business rules using Perl & HP Exstream
 
+</details>
+<br />
+
 ## Skills
 
-### Technologies
+### Technology
 
 - NodeJS
 - Perl & Mojolicious
@@ -71,12 +77,6 @@ title: ""
 - Python
 - Docker
 - git
-
-### APIs
-
-- REST
-- GraphQL
-- SOAP
 
 ### Monitoring & reporting
 
