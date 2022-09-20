@@ -1,12 +1,20 @@
 ---
-title: Stephen Minshall
+title: ""
 ---
 
-- [me@crazyste.com](mailto:me@crazyste.com)
-- [LinkedIn](https://linkedin.com/in/stephenminshall)
-- +61 478 297 981
+# ![Hey!](assets/me.png){:height="100px"} Stephen Minshall
+
+[me@crazyste.com](mailto:me@crazyste.com)
+<br/>[LinkedIn](https://linkedin.com/in/stephenminshall)
+<br/>+61 478 297 981
 
 ## Experience
+
+### Career break!
+
+*Dec 2021 - Present*
+
+| ![Decompressing](assets/frog-chill.gif){:height="200px"} | I've been decompressing since December 2021.<br /><br />Without a decent break in 20 years, 2022 is the summer of Ste!<br><br> [**I'll be in New Zealand 22 Nov 2022 - 24 Dec 2022**](https://www.skylarkcabin.co.nz/) |
 
 ### Expedia
 
