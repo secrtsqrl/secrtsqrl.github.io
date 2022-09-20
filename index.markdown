@@ -40,7 +40,7 @@ title: ""
 
 - Wrote a managed file transfer app in Perl to encrypt and transfer between SFTP, GCS, AWS S3, local
 - Built solution to fetch data from vendor APIs and load into the Data Warehouse or Google BigQuery
-- Wrote the Python REST API backend to support the “download a copy of your information” application
+- Wrote the Python REST API to support the "download a copy of your information" application
 
 <details markdown=1>
   <summary>Show more experience 👴️</summary>
