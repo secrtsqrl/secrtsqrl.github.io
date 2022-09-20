@@ -4,7 +4,7 @@ title: ""
 
 # Stephen Minshall
 
-|![Hey!](assets/me.png){:height="100px"}|[![LinkedIn](assets/LI-Logo.png){:height="20px"}](https://linkedin.com/in/stephenminshall)<br>[me@crazyste.com](mailto:me@crazyste.com)<br>+61 478 297 981|
+|![Hey!](assets/me.png){:height="100px"}|[![LinkedIn](assets/LI-Logo.png){:height="20px"}](https://linkedin.com/in/stephenminshall)<br>[me@crazyste.com](mailto:me@crazyste.com)<br>+61 478 297 981<br>Sydney, Australia|
 
 ## Experience
 
