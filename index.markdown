@@ -109,17 +109,13 @@ title: ""
 - PostgreSQL
 - Oracle
 - SQLite
-- SQL
-- Server
-- HP
-- Vertica
+- SQL Server
+- HP Vertica
 - BerkeleyDB
 
 ### Environments
 
-- Red
-- Hat
-- Linux
+- Red Hat Linux
 - CentOS
 - Ubuntu
 - Solaris
