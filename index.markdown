@@ -2,11 +2,9 @@
 title: ""
 ---
 
-# ![Hey!](assets/me.png){:height="100px"} Stephen Minshall
+# Stephen Minshall
 
-[me@crazyste.com](mailto:me@crazyste.com)
-<br/>[LinkedIn](https://linkedin.com/in/stephenminshall)
-<br/>+61 478 297 981
+|![Hey!](assets/me.png){:height="100px"}|[![LinkedIn](assets/LI-Logo.png){:height="20px"}](https://linkedin.com/in/stephenminshall)<br>[me@crazyste.com](mailto:me@crazyste.com)<br>+61 478 297 981|
 
 ## Experience
 
@@ -96,10 +94,8 @@ title: ""
 
 - App
 - Engine
-- Cloud
-- Functions
-- Compute
-- Engine
+- Cloud Functions
+- Compute Engine
 - Firebase
 - BigQuery
 
@@ -124,4 +120,6 @@ title: ""
 
 ## Education
 
-Bachelor of Computer Science @ University of Western Sydney
+### University of Western Sydney
+
+Bachelor of Computer Science
