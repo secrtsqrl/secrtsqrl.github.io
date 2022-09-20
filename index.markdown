@@ -12,7 +12,7 @@ title: ""
 
 *Dec 2021 - Present*
 
-| ![Decompressing](assets/frog-chill.gif){:height="200px"} | I've been decompressing since December 2021.<br /><br />Without a decent break in 20 years, 2022 is the summer of Ste!<br><br> [**I'll be in New Zealand 22 Nov 2022 - 24 Dec 2022**](https://www.skylarkcabin.co.nz/) |
+| ![Decompressing](assets/frog-chill.gif){:height="150px"} | I've been decompressing since December 2021.<br /><br />Without a decent break in 20 years, 2022 is the summer of Ste!<br><br> [**I'll be in New Zealand 22 Nov 2022 - 24 Dec 2022**](https://www.skylarkcabin.co.nz/) |
 
 ### Expedia
 
