@@ -92,8 +92,7 @@ title: ""
 
 ### Google Cloud Platform
 
-- App
-- Engine
+- App Engine
 - Cloud Functions
 - Compute Engine
 - Firebase
