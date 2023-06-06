@@ -10,9 +10,13 @@ title: ""
 
 ### Career break
 
-*Dec 2021 - Present*
+*Jan 2022 - Present*
 
-| ![Decompressing](assets/frog-chill.gif){: object-fit="cover"} | 2022 is the summer of Ste!<br><br> [**I'll be in New Zealand 22 Nov 2022 - 24 Dec 2022**](https://www.skylarkcabin.co.nz/) |
+2022-2023 is the summer of Ste!
+
+In 2022 I'll be in Mudgee (Feb), Uluru (May), Melbourne (Jun), [**New Zealand (Nov-Dec)**](https://www.skylarkcabin.co.nz/)
+
+In 2023 I'll be in Port Macquarie (Apr) then Koh Samui, Thailand (May). Then moving into & renovating my place.
 
 ### Expedia
 
