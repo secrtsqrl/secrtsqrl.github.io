@@ -81,6 +81,7 @@ In 2023 I'll be in Port Macquarie (Apr) then Koh Samui, Thailand (May). Then mov
 - Python
 - Docker
 - git
+- Ansible
 
 ### Monitoring & reporting
 
@@ -99,7 +100,6 @@ In 2023 I'll be in Port Macquarie (Apr) then Koh Samui, Thailand (May). Then mov
 - App Engine
 - Cloud Functions
 - Compute Engine
-- Firebase
 - BigQuery
 
 ### Databases
