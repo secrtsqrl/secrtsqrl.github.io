@@ -6,17 +6,27 @@ title: ""
 
 |![Hey!](assets/me.png){:object-fit="cover"}|[![LinkedIn](assets/LI-Logo.png){:height="20px"}](https://linkedin.com/in/stephenminshall)<br>[me@crazyste.com](mailto:me@crazyste.com)<br>+61 478 297 981<br>Sydney, Australia|
 
-## Experience
-
-### Career break
+## Career break / travel / moving
 
 *Jan 2022 - Present*
 
-2022-2023 is the summer of Ste!
+<details markdown=1>
 
-In 2022 I'll be in Mudgee (Feb), Uluru (May), Melbourne (Jun), [**New Zealand (Nov-Dec)**](https://www.skylarkcabin.co.nz/)
+### 2022
 
-In 2023 I'll be in Port Macquarie (Apr) then Koh Samui, Thailand (May). Then moving into & renovating my place.
+[Mudgee (Feb)](https://strikesmudgee.com.au/), Uluru (May), Melbourne (Jun), [New Zealand (Nov-Dec)](https://www.skylarkcabin.co.nz/)
+
+### 2023
+
+Port Macquarie (Apr), [Thailand (May)](https://www.garrya.com/en/destinations/samui).
+
+Moving into & renovating my place.
+
+</details>
+
+<br />
+
+## Experience
 
 ### Expedia
 
